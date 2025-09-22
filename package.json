@@ -1,5 +1,5 @@
 {
-  "name": "ats-backend",
+  "name": "spes-ats-v3",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,8 @@
     "mammoth": "^1.6.0",
     "xlsx": "^0.18.5",
     "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
